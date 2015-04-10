@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-config.md?pixel)]()
+
 ## kubectl config
 
 config modifies kubeconfig files
