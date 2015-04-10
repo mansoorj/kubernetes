@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/cluster-admin-guide.md?pixel)]()
+
 # Kubernetes Cluster Admin Guide
 
 The cluster admin guide is for anyone creating or administering a Kubernetes cluster.
