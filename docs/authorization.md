@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/authorization.md?pixel)]()
+
 # Authorization Plugins
 
 
@@ -101,3 +103,5 @@ to a remote authorization service.  Authorization modules can implement
 their own caching to reduce the cost of repeated authorization calls with the
 same or similar arguments.  Developers should then consider the interaction between
 caching and revocation of permissions.
+
+
