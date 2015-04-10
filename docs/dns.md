@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/dns.md?pixel)]()
+
 # DNS Integration with Kubernetes
 
 As of kubernetes 0.8, DNS is offered as a cluster add-on.  If enabled, a DNS
@@ -36,3 +38,4 @@ time.
 ## For more information
 
 See [the docs for the cluster addon](../cluster/addons/dns/README.md).
+
