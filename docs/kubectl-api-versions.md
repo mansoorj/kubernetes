@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-api-versions.md?pixel)]()
+
 ## kubectl api-versions
 
 Print available API versions.
