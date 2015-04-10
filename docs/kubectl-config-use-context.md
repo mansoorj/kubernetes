@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-config-use-context.md?pixel)]()
+
 ## kubectl config use-context
 
 Sets the current-context in a kubeconfig file
