@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-config-set.md?pixel)]()
+
 ## kubectl config set
 
 Sets an individual value in a kubeconfig file
