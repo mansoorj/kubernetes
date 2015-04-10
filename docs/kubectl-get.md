@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-get.md?pixel)]()
+
 ## kubectl get
 
 Display one or many resources
