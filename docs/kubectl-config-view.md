@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-config-view.md?pixel)]()
+
 ## kubectl config view
 
 displays merged kubeconfig settings or a specified kubeconfig file.
