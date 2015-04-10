@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubeconfig-file.md?pixel)]()
+
 # .kubeconfig files
 In order to easily switch between multiple clusters, a .kubeconfig file was defined.  This file contains a series of authentication mechanisms and cluster connection information associated with nicknames.  It also introduces the concept of a tuple of authentication information (user) and cluster connection information called a context that is also associated with a nickname.
 
@@ -193,3 +195,4 @@ $kubectl config set-context queen-anne-context --cluster=pig-cluster --user=blac
 $kubectl config set-context federal-context --cluster=horse-cluster --user=green-user --namespace=chisel-ns
 $kubectl config use-context federal-context
 ```
+
