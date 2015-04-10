@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/images.md?pixel)]()
+
 # Images
 Each container in a pod has its own image.  Currently, the only type of image supported is a [Docker Image](https://docs.docker.com/userguide/dockerimages/).
 
@@ -26,3 +28,4 @@ then a local image is used (preferentially or exclusively, respectively).
 This can be used to preload certain images for speed or as an alternative to authenticating to a private registry.
 
 Pull Policy is per-container, but any user of the cluster will have access to all local images.
+
