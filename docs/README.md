@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/README.md?pixel)]()
+
 # Kubernetes Documentation
 
 * The [User's guide](user-guide.md) is for anyone who wants to run programs and services on an exisiting Kubernetes cluster.
@@ -14,3 +16,4 @@
 * An overview of the [Design of Kubernetes](../DESIGN.md)
 
 * There are example files and walkthroughs in the [examples](../examples) folder.
+
