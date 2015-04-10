@@ -1,3 +1,6 @@
+
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/api.md?pixel)]()
+
 # The Kubernetes API
 
 Primary system and API concepts are documented in the [User guide](user-guide.md).
