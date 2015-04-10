@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/authentication.md?pixel)]()
+
 # Authentication Plugins
 
 Kubernetes uses tokens or client certificates to authenticate users for API calls.
@@ -23,3 +25,5 @@ after the user has been (re)authenticated by a *bedrock* authentication
 provider external to Kubernetes.  We plan to make it easy to develop modules
 that interface between kubernetes and a bedrock authentication provider (e.g.
 github.com, google.com, enterprise directory, kerberos, etc.)
+
+
