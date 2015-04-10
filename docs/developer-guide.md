@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/developer-guide.md?pixel)]()
+
 # Kubernetes Developer Guide
 
 The developer guide is for anyone wanting to either write code which directly accesses the
@@ -33,3 +35,4 @@ Guide](cluster-admin-guide.md).
 ## Contributing to the Kubernetes Project
 
 See this [README](../docs/devel/README.md).
+
