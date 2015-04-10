@@ -1,3 +1,5 @@
+[![Analytics](https://kubernetes-site.appspot.com/UA-36037335-10/GitHub/docs/kubectl-delete.md?pixel)]()
+
 ## kubectl delete
 
 Delete a resource by filename, stdin, resource and ID, or by resources and label selector.
